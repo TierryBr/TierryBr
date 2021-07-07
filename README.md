@@ -19,7 +19,8 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Tierrybarr)](https://twitter.com/Tierrybarr) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tierrybrs/)](https://www.instagram.com/tierrybrs/)
-[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/tierrybrs)  
+[![Chat on Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Instagram&logoColor=white&link=https://t.me/tierrybrs)](https://t.me/tierrybrs)
+
 
 
 
