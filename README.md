@@ -16,12 +16,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tierrybr&layout=compact&theme=react" alt="tierrybr"/> 
 </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Tierrybarr)](https://twitter.com/Tierrybarr) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tierrybrs/)](https://www.linkedin.com/in/tierrybrs/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+
 
 <p align="center">
-<a href="https://codepen.io/maykbrito" target="blank"><img align="center" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="maykbrito" height="20" width="20" /></a>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Tierrybarr)](https://twitter.com/Tierrybarr) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tierrybrs/)](https://www.linkedin.com/in/tierrybrs/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tierrybarros15.is@gmail.com)](mailto:tierrybarros15.is@gmail.com)
 </p>
 
 
