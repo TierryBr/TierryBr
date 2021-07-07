@@ -18,6 +18,6 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tierrybr&show_icons=true&theme=react" alt="tierrybr"/> 
-<img widht="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tierrybr&layout=compact&theme=react" alt="tierrybr"/> 
+<img width="350px" src="https://github-readme-stats.vercel.app/api?username=tierrybr&show_icons=true&theme=react" alt="tierrybr"/> 
+<img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tierrybr&layout=compact&theme=react" alt="tierrybr"/> 
 </p>
