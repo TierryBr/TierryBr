@@ -7,6 +7,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tierrybr&show_icons=true&theme=algolia" alt="tierrybr"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tierrybr&layout=compact&theme=algolia" alt="tierrybr"/> 
 </p>
 
 
