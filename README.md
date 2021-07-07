@@ -18,7 +18,7 @@
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Tierrybarr)](https://twitter.com/Tierrybarr) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/tierrybrs/)](https://www.instagram.com/tierrybrs/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tierrybrs/)](https://www.instagram.com/tierrybrs/)
 
 
 
