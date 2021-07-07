@@ -17,12 +17,10 @@
 </p>
 
 
-
-<p align="center">
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Tierrybarr)](https://twitter.com/Tierrybarr) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tierrybrs/)](https://www.linkedin.com/in/tierrybrs/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tierrybarros15.f@gmail.com)](mailto:tierrybarros15.f@gmail.com)
-</p>
+
 
 
 
