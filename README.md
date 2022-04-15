@@ -3,7 +3,9 @@
 
 - 📚 I am currently studying at [UFC](https://www.quixada.ufc.br/)
 
-- 👨‍💻 Full Stack Developer on [INOVE](https://github.com/dev-inove)
+- 👨‍💻 I am currently studying at [UFC](https://www.quixada.ufc.br/)
+
+- 👨‍💻 Mobile Developer on [DELL LEAD](https://leadfortaleza.com.br/portal)
 
 - 📬 How to reach me **tierrybarros15@gmail.com**
 
