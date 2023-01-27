@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tierry Barros</h1>
 <h4>I'm a Mobile developer attracted to the best technologies on the market today. I have developed and studied projects using JavaScript, Typescript, NodeJS, ReactJS and React Native. I am currently studying Information Systems at the Federal University of Ceará.</h4>
 
-- 📚 I am currently studying at [UFC](https://www.quixada.ufc.br/)
+- 📚 Graduated in Information Systems at [UFC](https://www.quixada.ufc.br/)
 
 - 👨‍💻 Mobile Developer on [Dell Lead](https://leadfortaleza.com.br/portal)
 
