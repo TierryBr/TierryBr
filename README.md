@@ -3,8 +3,6 @@
 
 - 📚 Graduated in Information Systems at [UFC](https://www.quixada.ufc.br/)
 
-- 👨‍💻 Full Stack Developer on [Inove](https://github.com/dev-inove)
-
 - 📬 How to reach me **tierrybarros15@gmail.com**
 
 - 🔎 See my LinkedIn: [TierryBr](https://www.linkedin.com/in/tierrybrs/)
