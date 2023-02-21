@@ -18,5 +18,4 @@ I have 1 year and a half of experience working on mobile development with React 
 
 <p align="center">
 <img width="420px" src="https://github-readme-stats.vercel.app/api?username=tierrybr&show_icons=true&theme=react&include_all_commits=true" alt="tierrybr"/> 
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tierrybr&layout=compact&theme=react" alt="tierrybr"/> 
 </p>
