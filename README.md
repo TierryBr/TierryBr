@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Tierry Barros</h1>
-<h4>I'm a Mobile developer attracted to the best technologies on the market today. I have developed and studied projects using JavaScript, Typescript, NodeJS, ReactJS and React Native. I am currently studying Information Systems at the Federal University of Ceará.</h4>
+<h4>Graduated in Information Systems, I am a developer passionate about the great technologies and market evolutions focused on mobile. So I'm always wanting to learn something new and take my development to the next level.
+I have 1 year and a half of experience working on mobile development with React Native, using the latest CI/CD frameworks and configurations.</h4>
 
 - 📚 Graduated in Information Systems at [UFC](https://www.quixada.ufc.br/)
 
